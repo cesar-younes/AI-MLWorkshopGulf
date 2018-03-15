@@ -1,1 +1,1 @@
-# AI-MLWorkshopGulf
+AI/ML Workshop
